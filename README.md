@@ -23,6 +23,7 @@ o	Minimum total purchased: 9
 o	Sum of total purchased: 22,000
 
 •	Product Performance:
+
 o	A bar chart showing Product Name vs. Units Sold revealed that Multitool Survival Knife had the highest sales (477 units) while Solar Battery Flashlight recorded the lowest (182 units).
 
 •	Sales Trend Analysis:
