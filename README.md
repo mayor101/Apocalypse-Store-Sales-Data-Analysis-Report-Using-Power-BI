@@ -27,16 +27,20 @@ o	Sum of total purchased: 22,000
 o	A bar chart showing Product Name vs. Units Sold revealed that Multitool Survival Knife had the highest sales (477 units) while Solar Battery Flashlight recorded the lowest (182 units).
 
 •	Sales Trend Analysis:
+
 o	A line chart displayed Product Purchases by Day of Month. The 21st day recorded the highest sales, led by Duct Tape.
 
 •	Customer Insights:
+
 o	A card chart summarised customer purchases, showing that Uncle Joe’s Prep Shop had the highest number of purchases, while Alex the Analyst Apocalypse Preppers recorded the lowest (613 items).
 o	A stacked column chart illustrated Units Sold per Customer segmented by product type, showing diversity in customer buying patterns.
 
 •	Profitability Analysis:
+
 o	A combined line and bar chart compared Production Cost and Price per product. Weather Proof Jacket had the highest profit margin, while N95 Mask had the lowest.
 
 •	Geographic Distribution:
+
 o	A ring (donut) chart visualised Purchases by State. The state of MN (Minnesota) recorded the highest total purchases (6,061), while FL (Florida) recorded the lowest (1,212), highlighting strong regional sales differences.
 
 5. Insights & Findings
